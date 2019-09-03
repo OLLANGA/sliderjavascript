@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #C1C1C1;
+}
+
+
+.container {
+    width: 80%;
+    height: 200px;
+    margin: auto;
+    margin-top: 170px;
+}
+
+
+h1 {
+    margin-left: 390px;
+    color: aliceblue;
+
+}
+
+.slider {
+    margin: auto;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+.para-slide {
+    margin-top: 15px;
+    width: 150px;
+    height: 120px;
+}
+
+.para1-slide {
+    width: 150px;
+    height: 150px;
+}
+
+.para2-slide {
+    width: 150px;
+    height: 150px;
+}
+
+.para3-slide {
+    width: 150px;
+    height: 180px;
+}
+
+.para4-slide {
+    width: 150px;
+    height: 130px;
+
+}
